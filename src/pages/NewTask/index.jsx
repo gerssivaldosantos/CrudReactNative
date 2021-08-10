@@ -5,7 +5,7 @@ export default function NewTask(){
     return(
         <View>
             <Text>
-                Task Page
+                New Task Page
             </Text>
         </View>
     )
